@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96144fb0-5f6a-4ab3-aaeb-d3a3cf9837e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="96144fb0-5f6a-4ab3-aaeb-d3a3cf9837e3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,9 +61,29 @@
       <updated>1631027000172</updated>
       <workItem from="1631027002127" duration="1833000" />
     </task>
+    <task id="LOCAL-00001" summary="Change values">
+      <created>1631029309424</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631029309424</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Change value of var Summe">
+      <created>1631029400240</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1631029400240</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Change values" />
+    <MESSAGE value="Change value of var Summe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change value of var Summe" />
   </component>
 </project>
