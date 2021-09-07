@@ -3,8 +3,8 @@ public class Main {
     public static void main(String[] args){
 
         String Summe = "Summe";
-        int Zahl1 = 3;
-        int Zahl2 = 5;
+        int Zahl1 = 4;
+        int Zahl2 = 8;
 
         System.out.println(addieren(Zahl1, Zahl2));
 
